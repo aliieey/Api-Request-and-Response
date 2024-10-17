@@ -41,8 +41,8 @@ PUT /users/9876
 Content-Type: application/json
 
 {
-  "name": "John Doe",
-  "email": "john@example.com",
+  "name": "Ali Raza",
+  "email": "infoaliraza22@gmail.com",
   "address": "123 Main St"
 }
 
@@ -58,7 +58,7 @@ PATCH /users/9876
 Content-Type: application/json
 
 {
-  "address": "456 New St"
+  "address": "Ghouisa Colony Khurrianwala"
 }
 
 
